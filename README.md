@@ -41,7 +41,7 @@ Sou movido pela vontade de ver quem está começando crescer com confiança e pr
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="52" alt="html5 logo"  />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="52" alt="css3 logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="52" alt="css3 logo"  />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" height="52" alt="php logo"  />
@@ -49,6 +49,7 @@ Sou movido pela vontade de ver quem está começando crescer com confiança e pr
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="52" alt="react logo"  />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="52" alt="nodejs logo"  />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="52" alt="bootstrap logo"  />
+  
   <br>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="52" alt="Sass"  />
   <img src="https://cdn.simpleicons.org/git/F05032" height="52" alt="git logo"  />
@@ -56,6 +57,8 @@ Sou movido pela vontade de ver quem está começando crescer com confiança e pr
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" height="52" alt="firebase logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" height="52" alt="github logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" height="52" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" />
+
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" height="52" alt="figma logo"  />
  <br>
  
